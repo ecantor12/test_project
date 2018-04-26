@@ -1,0 +1,10 @@
+[
+  "courses/tests/test_models.py::TestModels::()::test_course_is_available", 
+  "courses/tests/test_urls.py::TestUrls::()::test_list_url", 
+  "courses/tests/test_views.py::TestViews::()::test_course_list_authenticated", 
+  "courses/tests/test_views.py::TestViews::()::test_course_list_unauthenticated", 
+  "courses/tests/test_views.py::TestViews::()::test_course_detail_without_object_course", 
+  "courses/tests/test_views.py::TestViews::()::test_course_delete_without_object_course", 
+  "courses/tests/test_views.py::TestViews::()::test_course_delete_object_course_confirm_message", 
+  "courses/tests/test_views.py::TestViews::()::test_course_delete_object_course"
+]
